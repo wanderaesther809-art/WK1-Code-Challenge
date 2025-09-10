@@ -1,0 +1,31 @@
+COMPULSORY WEEK 1 CHALLENGE;
+Challenge 1 - Student Grade Generator
+Challenge 2-Speed Detector
+Challenge 3-Net Salary Calculator
+
+CHALLENGE 1
+
+On this one it prompts the user to input student marks which should be between 0 and 100.
+A > 79, B - 60 to 79, C - 49 to 59, D - 40 to 49, E - less 40.
+
+File name created is Generator.js
+upon running node generator.js we get the output
+
+CHALLENGE 2
+
+A program that takes the input as the speed of a car
+where if speed is less than or equal to 70 it returns "OK"
+
+else for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+
+if the driver gets more than 12 points the function prints"License suspended"
+
+File name created is detector.js
+upon running node detector.js prints the output
+
+how to run;
+clone this repository
+git clone
+cd WK1-code-challenge
+
+AND FINALLY PUSHING.....
